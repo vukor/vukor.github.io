@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[DevOps Engineer]]></title>
+  <link href="http://vukor.github.com/vukor/atom.xml" rel="self"/>
+  <link href="http://vukor.github.com/vukor/"/>
+  <updated>2020-09-30T12:52:43+00:00</updated>
+  <id>http://vukor.github.com/vukor/</id>
+  <author>
+    <name><![CDATA[Антон Бугреев]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
