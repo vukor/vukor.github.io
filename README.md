@@ -11,10 +11,8 @@ This repository hosts the current versions of Anton Bugreev’s CV and cover let
 
 ## Updating the documents
 
-1. Open the relevant `.docx` source in LibreOffice (or another editor that supports ODF) and make changes.
-2. Export to PDF from LibreOffice, or run  
-   `libreoffice --headless --convert-to pdf --outdir . src/cv.docx src/cv.pdf`
-   to regenerate both PDFs in the repository root.
+1. Open the relevant `.docx` source in Google Docs and make changes.
+2. Export to DOCX and PDF
 3. Review the PDFs locally, then commit and push so GitHub Pages serves the latest versions.
 
 ## Sharing
