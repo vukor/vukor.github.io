@@ -6,15 +6,13 @@ This repository hosts the current versions of Anton Bugreev’s CV and cover let
 
 - `cv.pdf` – four-page PDF export of the CV.
 - `cover-letter.pdf` – one-page PDF export of the cover letter.
-- `src/cv.odt` – editable OpenDocument source for the CV.
-- `src/cover-letter.odt` – editable OpenDocument source for the cover letter.
+- `src/cv.docx` – editable OpenDocument source for the CV.
+- `src/cover-letter.docx` – editable OpenDocument source for the cover letter.
 
 ## Updating the documents
 
-1. Open the relevant `.odt` source in LibreOffice (or another editor that supports ODF) and make changes.
-2. Export to PDF from LibreOffice, or run  
-   `libreoffice --headless --convert-to pdf --outdir . src/cv.odt src/cv.pdf`
-   to regenerate both PDFs in the repository root.
+1. Open the relevant `.docx` source in Google Docs and make changes.
+2. Export to DOCX and PDF
 3. Review the PDFs locally, then commit and push so GitHub Pages serves the latest versions.
 
 ## Sharing
